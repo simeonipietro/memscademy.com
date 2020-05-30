@@ -111,7 +111,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Posts
-  url: memscademy.com/categories/
+  url: https://memscademy.com/categories/
 - title: Search
   url: memscademy.com/search/
 
