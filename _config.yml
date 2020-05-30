@@ -116,7 +116,7 @@ navigation_header:
   url: memscademy.com/search/
 
 navigation_footer:
-- title: Created by Pietro Simeoni
+- title: Created by Pietro 
   url: 
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
