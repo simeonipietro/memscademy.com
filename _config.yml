@@ -111,9 +111,9 @@ navigation_header:
 - title: Home
   url: /
 - title: Posts
-  url: categories/
+  url: memscademy.com/categories/
 - title: Search
-  url: /search/
+  url: memscademy.com/search/
 
 navigation_footer:
 - title: Created by Pietro Simeoni
