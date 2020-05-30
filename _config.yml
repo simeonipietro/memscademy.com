@@ -111,7 +111,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Posts
-  url: /categories/
+  url: categories/
 - title: Search
   url: /search/
 
