@@ -14,3 +14,8 @@ The field of MEMS sits right at the intersection between several engineering bra
 I decided to launch this website as a pet project. I wanted to store somewhere the knowledge I accumulated during my PhD, and hopefully to save a minute or two of research to anyone interested in the topic.
 
 Best of luck with your learning!
+
+% \f is defined as f(#1) using the macro
+\f{x} = \int_{-\infty}^\infty
+    \hat \f\xi\,e^{2 \pi i \xi x}
+    \,d\xi
