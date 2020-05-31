@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## MEMScademy
   A Trove of Micro Electro-Mechanical Systems Tutorials
-feature_image: https://www.sandia.gov/media/NewsRel/NR2002/images/jpg/chain2.jpg
+feature_image: https://www.darpa.mil/DDM_Gallery/mem-sandia-619-316.jpg
 excerpt: "A Trove of Micro Electro-Mechanical Systems Tutorials"
 layout: page
 ---
