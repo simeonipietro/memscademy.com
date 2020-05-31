@@ -4,7 +4,7 @@ feature_text: |
   # <span style="color:white;-webkit-text-stroke: 2px black"> MEMScademy </span>
   #### <span style="color:white ;-webkit-text-stroke: 1.4px black"> A Trove of Micro Electro-Mechanical Systems Tutorials </span>
 
-feature_image: https://github.com/simeonipietro/memscademy.com/tree/gh-pages/assets/home.jpg
+feature_image: memscademy.com/assets/home.jpg
 excerpt: "A Trove of Micro Electro-Mechanical Systems Tutorials"
 layout: page
 ---
