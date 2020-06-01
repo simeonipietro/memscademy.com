@@ -114,7 +114,7 @@ navigation_header:
 
 navigation_footer:
 - title: Created by Pietro Simeoni
-  url: 
+  url: https://www.pietrosimeoni.com/
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
