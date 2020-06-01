@@ -15,7 +15,4 @@ I decided to launch this website as a pet project. I wanted to store somewhere t
 
 Best of luck with your learning!
 
-% \f is defined as f(#1) using the macro
-\f{x} = \int_{-\infty}^\infty
-    \hat \f\xi\,e^{2 \pi i \xi x}
-    \,d\xi
+$ mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n} $
