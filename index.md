@@ -4,7 +4,7 @@ feature_text: |
   # <span style="color:white;-webkit-text-stroke: 2px black"> MEMScademy </span>
   #### <span style="color:white ;-webkit-text-stroke: 1.4px black"> A Trove of Micro Electro-Mechanical Systems Tutorials </span>
 
-feature_image: https://www.sandia.gov/media/NewsRel/NR1999/images/jpg/5_level.jpg
+feature_image: /assets/home.jpg
 excerpt: "A Trove of Micro Electro-Mechanical Systems Tutorials"
 layout: page
 ---
