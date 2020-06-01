@@ -15,4 +15,4 @@ I decided to launch this website as a pet project. I wanted to store somewhere t
 
 Best of luck with your learning!
 
-$ mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n} $
+
