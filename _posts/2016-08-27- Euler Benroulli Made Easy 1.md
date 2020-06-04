@@ -19,15 +19,15 @@ For now, we can focus on static bending (aka low frequency), so that we can negl
 
 To develop the static EB theory of beams bending, we need to combine 3 equations:
 
-1. Equilibrium equation #1, that relates the shear force **V** to the bending moment **M**: 
+- Equilibrium equation #1, that relates the shear force **V** to the bending moment **M**: 
 
 $$V = \frac{dM}{dx}$$
 
-2. Equilibrium equation #2, that relates the shear force to the distributed force **q**: 
+- Equilibrium equation #2, that relates the shear force to the distributed force **q**: 
 
 $$\frac{dV}{dx}=-q$$
 
-3. The constitutive equation that relates the bending moment to the radius of curvature **ρ** through material properties (the Young modulus **E**) and geometrical properties from the second moment of area **I**: 
+- The constitutive equation that relates the bending moment to the radius of curvature **ρ** through material properties (the Young modulus **E**) and geometrical properties from the second moment of area **I**: 
 
 $$M=-\frac{-EI}{\rho}$$
 
