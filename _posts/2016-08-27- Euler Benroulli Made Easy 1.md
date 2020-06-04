@@ -21,7 +21,7 @@ To develop the static EB theory of beams bending, we need to combine 3 equations
 
 1. Equilibrium equation #1, that relates the shear force **V** to the bending moment **M**: 
 
-$V = \frac{dM}{dx}$
+$$V = \frac{dM}{dx}$$
 
 2. Equilibrium equation #2, that relates the shear force to the distributed force **q**: 
 
@@ -29,8 +29,8 @@ $$\frac{dV}{dx}=-q$$
 
 3. The constitutive equation that relates the bending moment to the radius of curvature **ρ** through material properties (the Young modulus **E**) and geometrical properties from the second moment of area **I**: 
 
-$M=-\frac{-EI}{\rho}$
+$$M=-\frac{-EI}{\rho}$$
 
-By remembering that the radius of curvature of a curved line at a given point can be expressed as $\rho=\frac{d^2w}{dx},$ and by combining the three equations above, we can obtain a differential equation that relates the deformation **w(x)** to the distributed load **q**: $\frac{d}{dx^2}(EI\frac{d^2w}{dx^2})=q$
+By remembering that the radius of curvature of a curved line at a given point can be expressed as $\rho=\frac{d^2w}{dx},$ and by combining the three equations above, we can obtain a differential equation that relates the deformation **w(x)** to the distributed load **q**: $$\frac{d}{dx^2}(EI\frac{d^2w}{dx^2})=q$$
 
-If the the material and cross-section of the beam is constant over the length, i.e. constant flexural rigidity *EI*, the equation can be further simplified to $EI \frac{d^4w}{dx^4}=q.$
+If the the material and cross-section of the beam is constant over the length, i.e. constant flexural rigidity *EI*, the equation can be further simplified to $$EI \frac{d^4w}{dx^4}=q.$$
