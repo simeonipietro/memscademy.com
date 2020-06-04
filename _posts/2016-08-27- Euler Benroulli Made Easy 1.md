@@ -82,7 +82,7 @@ Moving along the thickness of the beam, the radius of curvature also changes acc
 
 $$ dL = (\rho - z) d\theta. $$
 
-Combining the two relations we can get rid of **dΘ** and link **dx** and **dL**:
+Combining the two relations we can get rid of **dΘ** and link **dx** to **dL**:
 
 $$ dL = (1 - \frac{z}{\rho}) dx $$
 
@@ -100,7 +100,7 @@ $$ \sigma_x = -E \frac{z}{\rho}.$$
 
 Now that we have the stress as a function of the vertical position and curvature, our next step is linking the bending moment **M** to the stress in the beam.
 
-The internal moment about the neutral axis is given by summing all the forces perpendicular to the beam's cross-section times tje distance from the neutral axis. This is equivalent to integrating the product of the stress and **z** over the cross-sectional area:
+The internal moment about the neutral axis is given by summing all the forces perpendicular to the beam's cross-section times the distance from the neutral axis. This is equivalent to integrating the product of the stress and **z** over the cross-sectional area:
 
 $$ M = \int_A\sigma_x z dA $$
 
@@ -120,4 +120,4 @@ If the the material and cross-section of the beam is constant over the length, i
 
 $$EI \frac{d^4w}{dx^4}=q.$$
 
-
+</br></br>
