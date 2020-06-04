@@ -11,7 +11,7 @@ Most of the time, MEMS structures can be decomposed in a set of beams connected 
 
 Euler-Bernoulli beam theory offers a way to simply obtain a deformation shape for a given load + boundary conditions. The deformation shape is a function **w(x)** that tells you how much lateral displacement the beam experiences at any point **x** along its length.
 
-In EB theory we neglect shear deformation. This is an important approximation because it allows us to imagine infinitesimal portions **dx** of the beam as perfectly rigid, and the overall beam displacemnt is solely the result of these portions sliding vertically agains each other. In other words, the cross-section of the beam remains perpendicular to the beam axis at all times.
+In EB theory we neglect shear deformation. This is an important approximation because it allows us to imagine infinitesimal portions **dx** of the beam as perfectly rigid to shear deformation, and the overall beam displacemnt is solely the result of these portions sliding vertically agains each other. In other words, the cross-section of the beam remains perpendicular to the beam axis at all times.
 
 This approximation is suitable for slender beams, i.e. beams that are much longer than their thickness, the undergo small deformations. If this conditions are not met, then Timoshenko beam theory is needed to obtain accurate results.
 
