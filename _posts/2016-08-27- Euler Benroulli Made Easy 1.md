@@ -21,11 +21,11 @@ For now, we can focus on static bending (aka low frequency), so that we can negl
 
 To develop the static EB theory of beams bending, we need to combine 3 equations:
 
-- Equilibrium equation #1, that relates the shear force to the distributed force **q**: 
+- Equilibrium equation #1, that relates the shear force **V** to the distributed force **q**: 
 
 $$\frac{dV}{dx}=-q$$
 
-- Equilibrium equation #2, that relates the shear force **V** to the bending moment **M**: 
+- Equilibrium equation #2, that relates the shear force to the bending moment **M**: 
 
 $$V = \frac{dM}{dx}$$
 
@@ -102,11 +102,15 @@ Now that we have the stress as a function of the vertical position and curvature
 
 The internal moment about the neutral axis is given by summing all the forces perpendicular to the beam's cross-section times tje distance from the neutral axis. This is equivalent to integrating the product of the stress and **z** over the cross-sectional area:
 
-$$ M = \int_A\sigma_x z dA
+$$ M = \int_A\sigma_x z dA $$
+
+Plugging the stress expression as a function of **z** and doing the integral, we obtain the Constitutive Equation
+
+$$ M = - \frac{EI}{\rho}. $$ 
 
 ## Putting Everything Together
 
-We can now take the equilibrium equations #1 and #2, and the constitutive equation, and combine them into a single differential equation.
+We can now take the Equilibrium Equations #1 and #2, and the Constitutive Equation, and combine them into a single differential equation.
 
 By remembering that the radius of curvature of a curved line at a given point can be expressed as $\rho=\frac{d^2w}{dx},$ we obtain a differential equation that relates the deformation **w(x)** to the distributed load **q**: 
 
