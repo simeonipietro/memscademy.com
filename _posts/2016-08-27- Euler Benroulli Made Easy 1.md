@@ -31,6 +31,10 @@ $$\frac{dV}{dx}=-q$$
 
 $$M=-\frac{-EI}{\rho}$$
 
-By remembering that the radius of curvature of a curved line at a given point can be expressed as $\rho=\frac{d^2w}{dx},$ and by combining the three equations above, we can obtain a differential equation that relates the deformation **w(x)** to the distributed load **q**: $$\frac{d}{dx^2}(EI\frac{d^2w}{dx^2})=q$$
+By remembering that the radius of curvature of a curved line at a given point can be expressed as $\rho=\frac{d^2w}{dx},$ and by combining the three equations above, we can obtain a differential equation that relates the deformation **w(x)** to the distributed load **q**: 
 
-If the the material and cross-section of the beam is constant over the length, i.e. constant flexural rigidity *EI*, the equation can be further simplified to $$EI \frac{d^4w}{dx^4}=q.$$
+$$\frac{d}{dx^2}(EI\frac{d^2w}{dx^2})=q$$
+
+If the the material and cross-section of the beam is constant over the length, i.e. constant flexural rigidity *EI*, the equation can be further simplified to 
+
+$$EI \frac{d^4w}{dx^4}=q.$$
