@@ -7,7 +7,7 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-Most of the time, MEMS structures can be decomposed in a set of beams connected with each other. Since it's a fundamental component of several anchor schemes it useful to study how an individual beam deforms when an external load is applied to it.
+Most of the time, MEMS structures can be decomposed in a set of beams connected with each other. Since it is a fundamental component of several anchor schemes, it useful to study how an individual beam deforms when an external load is applied to it.
 
 Euler-Bernoulli beam theory offers a way to simply obtain a deformation shape for a given load + boundary conditions. The deformation shape is a function **w(x)** that tells you how much lateral displacement the beam experiences at any point **x** along its length.
 
