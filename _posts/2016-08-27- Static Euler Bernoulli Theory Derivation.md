@@ -35,7 +35,7 @@ $$M=-\frac{-EI}{\rho}$$
 
 Let's look at an infinitesimal portion along the beam with length **dx**
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="" width="300" height="800" %}
+{% include figure.html image="/assets/images/Euler-Bernoulli/Beamdx.png" caption="" width="500" height="350" %}
 
 The total force acting on this portion of the beam is:
 
