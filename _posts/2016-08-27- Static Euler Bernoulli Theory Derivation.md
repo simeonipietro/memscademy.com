@@ -1,5 +1,5 @@
 ---
-title: Static Euler-Benroulli Theory Derivation
+title: Static Euler-Bernoulli Theory Derivation
 categories:
 - Mechanical
 feature_image: "/assets/images/Euler-Bernoulli/Cantilever.png"
