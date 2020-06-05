@@ -120,4 +120,4 @@ If the the material and cross-section of the beam is constant over the length, i
 
 $$EI \frac{d^4w}{dx^4}=q.$$
 
-</br></br>
+<br/><br/>
