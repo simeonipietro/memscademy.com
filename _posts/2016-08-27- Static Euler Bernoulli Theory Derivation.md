@@ -62,7 +62,7 @@ that is the Equilibrium Equation #2.
 
 To derive the Constitutive Equation for beams bending, we reference the following figure:
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="" width="300" height="800" %}
+{% include figure.html image="/assets/images/Euler-Bernoulli/Bend.png" caption="" width="500" height="800" %}
 
 In the figure, **dx** is the portion of the beam under scrutiny before bending.
 
