@@ -4,7 +4,7 @@ categories:
 - Mechanical
 - Beam Theory
 - Euler - Bernoulli
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/images/Euler-Bernoulli/cantilever.png"
 ---
 
 ## Introduction
