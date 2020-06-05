@@ -1,9 +1,7 @@
 ---
-title: Static Euler Benroulli Theory Derivation
+title: Static Euler-Benroulli Theory Derivation
 categories:
 - Mechanical
-- Beam Theory
-- Euler - Bernoulli
 feature_image: "/assets/images/Euler-Bernoulli/Cantilever.png"
 ---
 
