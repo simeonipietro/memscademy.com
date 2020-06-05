@@ -1,10 +1,10 @@
 ---
-title: Euler-Bernoulli Made Easy - Part 1
+title: Static Euler Benroulli Theory Derivation
 categories:
 - Mechanical
 - Beam Theory
 - Euler - Bernoulli
-feature_image: "/assets/images/Euler-Bernoulli/cantilever.png"
+feature_image: "/assets/images/Euler-Bernoulli/Cantilever.png"
 ---
 
 ## Introduction
