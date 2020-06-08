@@ -7,7 +7,7 @@ feature_image: "/assets/images/Euler-Bernoulli/Cantilever.png"
 
 ## Introduction
 
-Often, MEMS structures can be decomposed in a set of beams connected with each other. Since it is a fundamental component of several anchor schemes, it useful to study how an individual beam deforms when an external load is applied to it.
+Often, MEMS structures can be decomposed into a set of beams connected with each other. Since it is a fundamental component of several anchor schemes, it useful to study how an individual beam deforms when an external load is applied to it.
 
 Euler-Bernoulli beam theory offers a way to simply obtain a deformation shape for a given load + boundary conditions. The deformation shape is a function **w(x)** that tells you how much lateral displacement the beam experiences at any point **x** along its length.
 
@@ -17,7 +17,7 @@ This approximation is suitable for slender beams, i.e. beams that are much longe
 
 For now, we can focus on static bending (aka low frequency), so that we can neglect any inertial effect coming from the beam mass.
 
-To develop the static EB theory of beams bending, we need to combine 3 equations:
+To develop the static EB theory of beam bending, we need to combine 3 equations:
 
 - Equilibrium Equation #1, that relates the shear force **V** to the distributed force **q**: 
 
@@ -30,6 +30,8 @@ $$V = \frac{dM}{dx}$$
 - The Constitutive Equation that relates the bending moment to the radius of curvature **ρ** through material properties (the Young modulus **E**) and geometrical properties from the second moment of area **I**: 
 
 $$M=-\frac{-EI}{\rho}$$
+
+We will now derive the 3 equations, and then proceed to combine them to obtain the differential equation for the static EB theory.
 
 ## Equilibrium Equations #1 and #2
 
