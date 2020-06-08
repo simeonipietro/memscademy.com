@@ -31,11 +31,11 @@ $$V = \frac{dM}{dx}$$
 
 $$M=-\frac{-EI}{\rho}$$
 
-We will now derive the 3 equations, and then proceed to combine them to obtain the differential equation for the static EB theory.
+We will now derive the 3 equations, and then proceed to combine them to obtain the differential equation of the static EB theory.
 
 ## Equilibrium Equations #1 and #2
 
-Let's look at an infinitesimal portion along the beam with length **dx**
+Let's look at an infinitesimal portion along the beam with length **dx**:
 
 {% include figure.html image="/assets/images/Euler-Bernoulli/Beamdx.png" caption="" width="500" height="500" %}
 
@@ -43,7 +43,7 @@ The total force acting on this portion of the beam is:
 
 $$F_{tot} = q dx + V + dV - V$$
 
-Since we are at equilibrium, the beam piece we are observing is not moving in space and the net force must be zero. Therefore, we get:
+Since we are at equilibrium, the beam piece we are observing is not moving in space and the net force acting on it must be zero. Therefore, we get:
 
 $$ \frac{dV}{dx} = -q, $$
 
@@ -70,7 +70,7 @@ In the figure, **dx** is the portion of the beam under scrutiny before bending.
 
 After bending, the neutral axis is the plane along the beam thickness that does not change length as a result of the deformation, while portions of the beam above or below the neutral plane must change their length to adjust for the curvature.
 
-**dL** is the length of the beam infinitesimal element, and it is a function of the vertical coordinate **z**. In the wat we are setting up the problem, we have that $z=0$ corresponds to the neutral axis position, and that $dL(z=0) = dx$.
+**dL** is the length of the beam infinitesimal element, and it is a function of the vertical coordinate **z**. In the way we are setting up the problem, we have that $z=0$ corresponds to the neutral axis position, and that $dL(z=0) = dx$.
 
 We define as **ρ** the radius of curvature calculated from the neutral axis, and **dΘ** is the infinitesimal angle defining the beam portion **dL** from the center of the curvature.
 
