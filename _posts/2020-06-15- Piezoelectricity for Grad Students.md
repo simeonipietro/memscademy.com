@@ -3,7 +3,7 @@ title: Piezoelectricity in MEMS - An Introduction for Grad Students
 categories:
 - Mechanical
 - Electrical
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/images/Piezo-Grad/piezo_front.png"
 ---
 
 ## Introduction
