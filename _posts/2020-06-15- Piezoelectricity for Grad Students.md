@@ -80,6 +80,8 @@ This makes sense, as normally, in a non-piezoelectric material, you could obtain
 
 Keeping the desired quantities unchanged is achieved by applying the approprate boundary conditions to your material. To maintain stress or strain constant during an electrical test, you would respectively allow the the material to freely deform (zero stress) or constrain it in such a way that no deformation takes place. 
 
+{% include figure.html image="/assets/images/Piezo-Grad/piezo_boundary.png" caption=" " width="500" height="500" %}
+
 Similarly, to keep **D** and **E** constant when extracting mechanical properties, you would either keep an open-circuit condition or keep a constant voltage drop across the material (for example with a short-circuit), respectively.
 
 In general, the piezoelectric effect does not dominate the electrical or mechanical responses of sensors. This means that only a small portion of mechanical/electrical energy gets converted to the other domain (see $k_t^2$), so if you are looking for first order results you should be able to safely neglect this details.
