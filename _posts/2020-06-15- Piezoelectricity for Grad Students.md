@@ -12,7 +12,7 @@ Some materials are characterized by a crystal structure such that a net polariza
 
 This mechanical-to-electrical conversion is referred to as *direct piezoelectric effect*. The phenomenon is reciprocal, and you can mechanically deform the material by generating electric fields in it, for example by applying a voltage between electrodes placed on its top and bottom sides. In this case we are observing the *inverse piezoelectric effect*.
 
-{% include figure.html image="/assets/images/Piezo-Grad/SchemaPiezo.gif" caption="" width="500" height="500" %}
+{% include figure.html image="/assets/images/Piezo-Grad/SchemaPiezo.gif" caption=" " width="500" height="500" %}
 
 Unsuprisingly, this transduction mechanism is central to the MEMS industry, and is used by several device categories such as inertial sensors, MEMS microphones, and ultrasound transducers. 
 
