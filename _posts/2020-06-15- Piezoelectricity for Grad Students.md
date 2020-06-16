@@ -142,19 +142,19 @@ $$ D_3 = \epsilon _3 \frac{V}{h} + e_{33} d_{03} $$
 
 $$ Q = \int_{A} D_3 dxdy = \epsilon _3 \frac{AV}{h} + e_{33} A d_{03} $$
 
-$$ i = \frac{dQ}{dt} = \epsilon _3 \omega \frac{VA}{h} + e_{33} A \omega d_{03} $$
+$$ i_{out} = \frac{dQ}{dt} = \epsilon _3 \omega \frac{VA}{h} + e_{33} A \omega d_{03} $$
 
 Assuming we are not applying any voltage on the sensor, the current response is entirely produced by mechanical excitation:
 
-$$ i = \frac{dQ}{dt} = e_{33} A \omega d_{03} $$
+$$ i_{out} = \frac{dQ}{dt} = e_{33} A \omega d_{03} $$
 
 If we wanted to obtain the voltage response, we can take the expression of charge and convert it into voltage through the capacitance $ C= \epsilon _3 \frac{A}{h}$ between the electrodes:
 
-$$ Q=CV \xrightarrow{} V = \frac{e_{33}}{\epsilon _3} h d_{03} $$
+$$ Q=CV \xrightarrow{} V_{out} = \frac{e_{33}}{\epsilon _3} h d_{03} $$
 
 Finally, we can express the displacement in terms of force through Hook's law ($T_3 = E_Y S_3$) by using the young modulus $\pmb{E_Y}$:
 
-$$ V = \frac{e_{33}}{\epsilon _3} h d_{03} = \frac{e_{33}}{\epsilon _3} h^2 S_{3} = \frac{e_{33}}{\epsilon _3} h^2 \frac{T_{3}}{E_Y} = \frac{e_{33}}{\epsilon _3} \frac{h^2}{A} \frac{F_3}{E_Y}$$
+$$ V_{out} = \frac{e_{33}}{\epsilon _3} h d_{03} = \frac{e_{33}}{\epsilon _3} h^2 S_{3} = \frac{e_{33}}{\epsilon _3} h^2 \frac{T_{3}}{E_Y} = \frac{e_{33}}{\epsilon _3} \frac{h^2}{A} \frac{F_3}{E_Y}$$
 
 With this derivations we can see how to jump from one expression to another depending on what is more convenient for the problem at hand.
 
