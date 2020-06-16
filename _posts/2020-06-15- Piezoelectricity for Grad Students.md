@@ -124,7 +124,7 @@ When using a transducer as a sensor, we convert a physical quantity into an elec
 
 A transducer operates in a longitudinal configuration when the input and output fields are parallel to each other. For example, we can see in the figure below that the components of the mechanical and electrical fields we are interested in are both along the vertical direction.
 
-INSERT IMAGE
+{% include figure.html image="/assets/images/Piezo-Grad/longitudinal.png" caption=" " width="700" height="700" %}
 
 We begin the derivation by writing down a 1-dimensional piezoelectric constitutive equation. In this example we use a polarization equation in the Stress-Charge form:
 
