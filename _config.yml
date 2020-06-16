@@ -112,8 +112,8 @@ navigation_header:
   url: /
 - title: Posts
   url: https://memscademy.com/categor/
-- title: Search
-  url: memscademy.com/search/
+#- title: Search
+#  url: memscademy.com/search/
 
 navigation_footer:
 - title: Created by Pietro 
