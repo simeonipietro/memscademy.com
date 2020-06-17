@@ -90,7 +90,7 @@ However, if you are looking for a more precise derivation of a sensor or actuato
 
 Finally, if you have access to FEA, all of the above is automatically captured in the simulation. So what someone would commonly do is using first order results to define an appropriate design space for the device, and then use FEA if further refinement is needed.
 
-## First Order Derivations Example
+## First Order Derivation Example
 
 Before moving on to the example, we can review some relations that are used in this kind of probelm. While these relations are simple, it is useful to present them here if you are not used to these type of derivations.
 
