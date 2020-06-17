@@ -109,8 +109,8 @@ navigation_header:
   url: https://memscademy.com
 - title: Posts
   url: https://memscademy.com/categories/
-- title: Search
-  url: https://memscademy.com/search/
+#- title: Search
+#  url: https://memscademy.com/search/
 
 navigation_footer:
 - title: Created by Pietro Simeoni
