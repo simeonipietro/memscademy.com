@@ -6,8 +6,6 @@ categories:
 feature_image: "/assets/images/Piezo-Grad/piezo_front.png"
 ---
 
-## Introduction
-
 Some materials are characterized by a crystal structure such that a net polarization forms if they get deformed. In other words, you can squeeze, bend, or twist a piezoelectric material to generate electrical charges.
 
 This mechanical-to-electrical conversion is referred to as *direct piezoelectric effect*. The phenomenon is reciprocal, and you can mechanically deform the material by generating electric fields in it, for example by applying a voltage between electrodes placed on its top and bottom sides. In this case we are observing the *inverse piezoelectric effect*.
