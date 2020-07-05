@@ -36,7 +36,7 @@ $$D = \epsilon E  \xrightarrow{}  D = eS + \epsilon^S E$$
 
 Where **D** is the polarization vector and $\pmb{\epsilon}$ is the 3x3 dielectric constants matrix.
 
-Putting together the two equations above we obtain the *constitutive equations of piezoelectricity* in the stress-charge form. "Stress - Charge" simply denotes that **T** and **D** are chosen as dependent variables. 
+Putting together the two equations above, we obtain the *constitutive equations of piezoelectricity* in the Stress-Charge form. "Stress - Charge" simply denotes that **T** and **D** are chosen as dependent variables. 
 
 The same equations can be expressed as having any combination of electrical and mechanical dependent variables, with the appropriate matrix transformations to obtain the correct coupling coefficients. 
 
