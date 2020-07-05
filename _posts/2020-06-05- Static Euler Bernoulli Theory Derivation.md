@@ -5,8 +5,6 @@ categories:
 feature_image: "/assets/images/Euler-Bernoulli/Cantilever.png"
 ---
 
-## Introduction
-
 Often, MEMS structures can be decomposed into a set of beams connected with each other. Since it is a fundamental component of several anchor schemes, it is useful to study how an individual beam deforms when an external load is applied to it.
 
 Euler-Bernoulli beam theory offers a way to simply obtain a deformation shape for a given load + boundary conditions. The deformation shape is a function **w(x)** that tells you how much lateral displacement the beam experiences at any point **x** along its length.
